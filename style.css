@@ -1,0 +1,1021 @@
+._01,
+._01 * {
+  box-sizing: border-box;
+}
+._01 {
+  background: #000000;
+  height: 7651px;
+  position: relative;
+}
+.ellipse-1030 {
+  background: linear-gradient(
+    99.7deg,
+    rgba(119, 119, 119, 1) 0%,
+    rgba(1, 1, 1, 1) 100%
+  );
+  border-radius: 50%;
+  width: 814px;
+  height: 1376px;
+  position: absolute;
+  left: calc(50% - 1752px);
+  top: 4834px;
+  filter: blur(467.82px);
+}
+.ellipse-1034 {
+  background: rgba(54, 54, 54, 0.2);
+  border-radius: 50%;
+  width: 1922px;
+  height: 974px;
+  position: absolute;
+  left: calc(50% - 963px);
+  top: 6677px;
+}
+.img-0011-1 {
+  width: 290px;
+  height: 494px;
+  position: absolute;
+  left: 197px;
+  top: 4129px;
+  object-fit: cover;
+}
+.if-it-s-not-weird-i-am-not-interested {
+  color: #707070;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 7070px;
+  width: 417px;
+  height: 48px;
+  transform-origin: 0 0;
+  transform: rotate(180deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-231924 {
+  background: rgba(112, 112, 112, 0.3);
+  padding: 10px 300px 10px 300px;
+  display: flex;
+  flex-direction: row;
+  gap: 21px;
+  align-items: center;
+  justify-content: center;
+  height: 56px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 1110.26px;
+  transform-origin: 0 0;
+  transform: rotate(-1.733deg) scale(1, 1);
+}
+.frame-232010 {
+  display: flex;
+  flex-direction: row;
+  gap: 21px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.frame-231929 {
+  display: flex;
+  flex-direction: row;
+  gap: 21px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.collage-student {
+  color: #010101;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 130%;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-232016 {
+  display: flex;
+  flex-direction: row;
+  gap: 21px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 30.31px;
+  height: 30.31px;
+  position: relative;
+}
+.frame-232015 {
+  display: flex;
+  flex-direction: row;
+  gap: 21px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group2 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.frame-231931 {
+  display: flex;
+  flex-direction: row;
+  gap: 21px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.cinema {
+  color: #010101;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 130%;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-232011 {
+  display: flex;
+  flex-direction: row;
+  gap: 21px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group3 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.frame-231930 {
+  display: flex;
+  flex-direction: row;
+  gap: 21px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.photography {
+  color: #010101;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 130%;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-232012 {
+  display: flex;
+  flex-direction: row;
+  gap: 21px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group4 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.video-editor {
+  color: #010101;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 130%;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-232013 {
+  display: flex;
+  flex-direction: row;
+  gap: 21px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group5 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.about-me {
+  color: #707070;
+  text-align: left;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 272px;
+  top: 79px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.personal-info {
+  color: #707070;
+  text-align: left;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 454px;
+  top: 79px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.what-i-can-do {
+  color: #707070;
+  text-align: left;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 687px;
+  top: 79px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.tools-my-photos {
+  color: #707070;
+  text-align: left;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 907px;
+  top: 79px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.contacts {
+  color: #707070;
+  text-align: left;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 1193px;
+  top: 79px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.glow {
+  background: linear-gradient(
+    105.96deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(35, 33, 38, 1) 65.06770253181458%,
+    rgba(46, 45, 48, 1) 100%
+  );
+  border-radius: 50%;
+  width: 471.2px;
+  height: 1240.26px;
+  position: absolute;
+  left: 290px;
+  top: 541.64px;
+  transform-origin: 0 0;
+  transform: rotate(-68.574deg) scale(1, 1);
+  filter: blur(232px);
+}
+.about-me2 {
+  color: #707070;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: calc(50% - 855px);
+  top: 1606px;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.iso-400 {
+  color: #707070;
+  text-align: left;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 105px;
+  top: 994px;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+}
+.group-2592 {
+  height: auto;
+  position: absolute;
+  left: 1809px;
+  top: 962px;
+  overflow: visible;
+}
+.f-1-8 {
+  color: #707070;
+  text-align: left;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1780px;
+  top: 91px;
+}
+.my-photo {
+  color: #707070;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: calc(50% - 124px);
+  top: 3930px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.what-i-can-do2 {
+  color: #707070;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 1440px;
+  top: 2784px;
+  width: 233px;
+  height: 47px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.self-learner-and-proactive-i-always-aim-to-deliver-the-best-i-can-in-all-aspects-bought-my-first-canon-600-d-camera-out-of-my-pocket-so-i-could-start-learning-the-ropes-of-what-a-photograpy-is-like-for-someone-with-near-zero-video-or-photo-background-in-my-childhood-and-teenage-years-it-was-a-big-learning-curve {
+  color: #dfdfdf;
+  text-align: right;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  left: 1299px;
+  top: 2738px;
+  width: 466.19px;
+  height: 550.11px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.personal-information {
+  color: #707070;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 244.88px;
+  top: 2791.72px;
+  width: 229.43px;
+  height: 47.07px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sisna-akbar-r-tlogomulyo-temanggung-central-java-19-years-collage-students {
+  color: #dfdfdf;
+  text-align: left;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  left: 176px;
+  top: 2727px;
+  width: 564.41px;
+  height: 550.11px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.tools {
+  color: #707070;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 3256px;
+  width: 107px;
+  height: 21px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.this-is-the-result-of-my-photos-during-1-year-using-canon-600-d {
+  color: #dfdfdf;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 391px);
+  top: 3867px;
+  width: 687px;
+  height: 316px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.akbarbarbar-167-gmail-com {
+  color: #dfdfdf;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 6845px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contacts2 {
+  color: #707070;
+  text-align: left;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 6725px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-2593 {
+  position: absolute;
+  inset: 0;
+}
+.i-am-a-19-year-old-student-at-universitas-teknologi-yogyakarta-with-a-deep-passion-for-photography-and-videography-my-interest-in-this-field-began-when-a-friend-invited-me-to-try-it-out-which-unexpectedly-led-me-to-a-fascinating-and-challenging-journey-since-then-this-hobby-has-become-an-essential-part-of-my-life-armed-with-a-second-hand-camera-from-my-sibling-i-started-capturing-various-moments-from-landscapes-and-portraits-to-simple-everyday-scenes-filled-with-meaning-over-the-past-year-i-have-been-exploring-this-hobby-through-self-directed-learning-using-resources-such-as-online-tutorials-discussion-forums-and-hands-on-experiments-in-the-field-although-i-am-relatively-new-to-photography-and-videography-i-firmly-believe-that-with-dedication-and-hard-work-i-can-develop-my-skills-to-a-professional-level-as-a-proactive-individual-i-am-always-eager-to-learn-new-things-especially-those-aligned-with-my-interests-i-also-possess-skills-in-photo-and-video-editing-which-add-value-to-my-creative-process-for-me-every-step-from-capturing-the-images-to-the-editing-phase-is-a-valuable-experience-that-continually-teaches-me-something-new-in-addition-to-this-i-enjoy-playing-video-games-in-my-spare-time-this-activity-is-not-just-a-form-of-entertainment-but-also-a-source-of-inspiration-that-often-helps-me-generate-fresh-ideas-for-visual-concepts-i-believe-that-having-diverse-hobbies-and-interests-can-complement-one-another-and-open-up-greater-opportunities-to-create-original-and-meaningful-works-with-a-strong-desire-to-continue-learning-and-growing-i-aspire-to-contribute-significantly-to-the-world-of-photography-and-videography-by-creating-works-that-are-not-only-visually-stunning-but-also-carry-a-powerful-story-and-message {
+  color: #dfdfdf;
+  text-align: left;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  left: 254px;
+  top: calc(50% - 2721.5px);
+  width: 690px;
+  height: 1383px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.img-0155-1 {
+  width: 723.56px;
+  height: 1302px;
+  position: absolute;
+  left: 1040px;
+  top: 1320px;
+  object-fit: cover;
+}
+.the-ments-by-me {
+  color: #707070;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -895px);
+  top: 2394px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hi-i-am-akbar {
+  color: #d0cbc1;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 120%;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 241px);
+  top: 501px;
+  width: 282.21px;
+  height: 94.14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cinema2 {
+  color: #dfdfdf;
+  text-align: left;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  left: 290px;
+  top: 339px;
+  width: 324px;
+  height: 47px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.photography2 {
+  color: #dfdfdf;
+  text-align: left;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  left: 408px;
+  top: 369px;
+  width: 143px;
+  height: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._2005 {
+  color: #dfdfdf;
+  text-align: left;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  left: 564px;
+  top: 406.74px;
+  width: 86px;
+  height: 23.53px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.editing {
+  color: #dfdfdf;
+  text-align: left;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  left: 615px;
+  top: 453.81px;
+  width: 161px;
+  height: 23.53px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.but-i-think-no {
+  color: #dfdfdf;
+  text-align: right;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  left: 1055px;
+  top: 639px;
+  width: 330px;
+  height: 47.07px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.i-like-challange {
+  color: #dfdfdf;
+  text-align: right;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  left: 1312px;
+  top: 681.3px;
+  width: 251.42px;
+  height: 47.07px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.i-used-to-be-regular-person {
+  color: #dfdfdf;
+  text-align: left;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  left: 987px;
+  top: 595.01px;
+  width: 291px;
+  height: 67.66px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.creative {
+  color: #707070;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 826px);
+  top: 3695px;
+  width: 343px;
+  height: 42px;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+._6 {
+  padding: 0px 0px 475px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 71px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 453px;
+  height: 435px;
+  position: absolute;
+  left: 304px;
+  top: 3333px;
+}
+.apple {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.border {
+  border-radius: 8px;
+  border-style: solid;
+  border-color: var(--color-dark-grey, #292a36);
+  border-width: 2px;
+  padding: 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 273px;
+  height: 273px;
+  position: relative;
+}
+.project-description {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.filmora {
+  color: #dfdfdf;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+}
+._7 {
+  padding: 0px 0px 479px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 71px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 458px;
+  height: 408px;
+  position: absolute;
+  left: 821px;
+  top: 3333px;
+}
+.dropbox {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.border2 {
+  border-radius: 8px;
+  border-style: solid;
+  border-color: var(--color-dark-grey, #292a36);
+  border-width: 2px;
+  padding: 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 275px;
+  height: 273px;
+  position: relative;
+}
+.lightroom {
+  color: #dfdfdf;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+}
+._8 {
+  padding: 0px 0px 479px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 71px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 453px;
+  height: 372px;
+  position: absolute;
+  left: 1339px;
+  top: 3333px;
+}
+.microsoft {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.border3 {
+  border-radius: 8px;
+  border-style: solid;
+  border-color: var(--color-dark-grey, #292a36);
+  border-width: 2px;
+  padding: 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 272px;
+  height: 272px;
+  position: relative;
+}
+.cap-cut {
+  color: #dfdfdf;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+}
+.image-2 {
+  width: 69px;
+  height: 54px;
+  position: absolute;
+  left: 497px;
+  top: 3414px;
+  object-fit: cover;
+}
+.image-1 {
+  width: 55px;
+  height: 49px;
+  position: absolute;
+  left: 1077px;
+  top: 3417px;
+  transform: translate(-59px, 0px);
+  overflow: visible;
+  object-fit: cover;
+}
+.image-3 {
+  width: 52px;
+  height: 48px;
+  position: absolute;
+  left: 1544px;
+  top: 3420px;
+  object-fit: cover;
+}
+.instagram-ak-8-a-7 {
+  color: #dfdfdf;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 6785px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.instagram-ak-8-a-7-span {
+  color: #dfdfdf;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.instagram-ak-8-a-7-span2 {
+  color: #dfdfdf;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  font-weight: 400;
+}
+.img-0370-1 {
+  width: 290px;
+  height: 481px;
+  position: absolute;
+  left: 548px;
+  top: 4129px;
+  object-fit: cover;
+}
+.img-0006-1 {
+  width: 703px;
+  height: 448px;
+  position: absolute;
+  left: 197px;
+  top: 4610px;
+  object-fit: cover;
+}
+.img-9619-1 {
+  width: 311.43px;
+  height: 494px;
+  position: absolute;
+  left: 1002px;
+  top: 4103px;
+  object-fit: cover;
+}
+.img-9919-1 {
+  width: 289px;
+  height: 494px;
+  position: absolute;
+  left: 1363px;
+  top: 4129px;
+  object-fit: cover;
+}
+.img-8347-1 {
+  width: 650px;
+  height: 448px;
+  position: absolute;
+  left: 1002px;
+  top: 4610px;
+  object-fit: cover;
+}
+.img-8209-1 {
+  width: 311px;
+  height: 547px;
+  position: absolute;
+  left: 1341px;
+  top: 5143px;
+  object-fit: cover;
+}
+.img-20230930-184744-1 {
+  width: 703px;
+  height: 489px;
+  position: absolute;
+  left: 197px;
+  top: 5721px;
+  object-fit: cover;
+}
+.img-20231027-201254-1 {
+  width: 660px;
+  height: 475px;
+  position: absolute;
+  left: 992px;
+  top: 5735px;
+  object-fit: cover;
+}
+.img-20231202-134821-1 {
+  width: 724px;
+  height: 547px;
+  position: absolute;
+  left: 197px;
+  top: 5143px;
+  object-fit: cover;
+}
+.img-8752-1 {
+  width: 321px;
+  height: 547px;
+  position: absolute;
+  left: 992px;
+  top: 5143px;
+  object-fit: cover;
+}
